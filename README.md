@@ -23,5 +23,14 @@ git push origin main
 # change dir
 
     cd dirname
+    
+# upstream setup
+
+    git remote add upstream git@bitbucket.org:some-gatekeeper-maintainer/some-project.git
+    git fetch upstream
+    git remote -v
+    git pull upstream main
+    git pull origin main
+
 
 
