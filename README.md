@@ -33,4 +33,12 @@ git push origin main
     git pull origin main
 
 
-
+# sudipto Vai 
+git checkout -b "dev_dipto"
+=================================
+git status
+git add .
+git commit -m "fixed"
+git push origin "dev_dipto"
+git push origin "dev_Sudipto"
+git push origin "remove_javascript"
