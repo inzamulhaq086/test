@@ -42,3 +42,7 @@ git push origin main
     git push origin "dev_dipto"
     git push origin "dev_Sudipto"
     git push origin "remove_javascript"
+    
+    
+# Uninitialize Git Repo
+  rm -rf .git
