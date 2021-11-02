@@ -46,3 +46,6 @@ git push origin main
     
 # Uninitialize Git Repo
   rm -rf .git
+  
+# Make Readme file design
+  https://readme.so/editor
